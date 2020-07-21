@@ -1,0 +1,16 @@
+comandos nodejs
+
+atualizando o npm
+npm install npm@latest -g
+
+iniciando um projeto
+npm init -y
+
+npm i --save-dev mocha
+
+npm run test
+
+https://www.chaijs.com/api/bdd/
+npm i --save-dev chai
+
+npm i --save-dev sinon
